@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Cachorro desconfiado",
+    "image": "assets/memes/cachorrodesconfiado.jpg",
+    "description": "Olhar de lado, pouca alegria e muita desconfiança.",
+    "traits": {
+      "smile": 0.05,
+      "tilt": 0.9,
+      "center": 0.25,
+      "brightness": 0.55,
+      "wide_face": 0.35,
+      "hand": 0.0,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.0,
+      "open_hand": 0.0,
+      "mouth_open": 0.05,
+      "brow_up": 0.55
+    }
+  },
+  {
+    "name": "Cristiano dedinho",
+    "image": "assets/memes/cristianodedinho.jpg",
+    "description": "Sorriso forte com dedo apontando perto do rosto.",
+    "traits": {
+      "smile": 0.95,
+      "tilt": 0.15,
+      "center": 0.8,
+      "brightness": 0.58,
+      "wide_face": 0.48,
+      "hand": 0.75,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.9,
+      "open_hand": 0.0,
+      "mouth_open": 0.15,
+      "brow_up": 0.2
+    }
+  },
+  {
+    "name": "Cristiano nao grita",
+    "image": "assets/memes/cristianonaogrita.jpg",
+    "description": "Expressao seria com dedo fazendo silencio.",
+    "traits": {
+      "smile": 0.02,
+      "tilt": 0.05,
+      "center": 0.85,
+      "brightness": 0.42,
+      "wide_face": 0.45,
+      "hand": 0.7,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.95,
+      "open_hand": 0.0,
+      "mouth_open": 0.02,
+      "brow_up": 0.15
+    }
+  },
+  {
+    "name": "Gato hang loose",
+    "image": "assets/memes/gatohangloose.jpg",
+    "description": "Mao em hang loose: dedao e mindinho levantados.",
+    "traits": {
+      "smile": 0.35,
+      "tilt": 0.2,
+      "center": 0.55,
+      "brightness": 0.62,
+      "wide_face": 0.7,
+      "hand": 0.9,
+      "shaka": 1.0,
+      "thumbs_up": 0.0,
+      "point": 0.0,
+      "open_hand": 0.0,
+      "mouth_open": 0.25,
+      "brow_up": 0.25
+    }
+  },
+  {
+    "name": "Gato joinha",
+    "image": "assets/memes/gatojoinha.jpg",
+    "description": "Pose de aprovado: joinha bem visivel.",
+    "traits": {
+      "smile": 0.3,
+      "tilt": 0.1,
+      "center": 0.75,
+      "brightness": 0.48,
+      "wide_face": 0.55,
+      "hand": 0.9,
+      "shaka": 0.0,
+      "thumbs_up": 1.0,
+      "point": 0.0,
+      "open_hand": 0.0,
+      "mouth_open": 0.1,
+      "brow_up": 0.15
+    }
+  },
+  {
+    "name": "Gato linguinha",
+    "image": "assets/memes/gatolingua.jpg",
+    "description": "Boca aberta, lingua para fora e expressao exagerada.",
+    "traits": {
+      "smile": 0.55,
+      "tilt": 0.25,
+      "center": 0.75,
+      "brightness": 0.78,
+      "wide_face": 0.8,
+      "hand": 0.0,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.0,
+      "open_hand": 0.0,
+      "mouth_open": 0.95,
+      "brow_up": 0.3
+    }
+  },
+  {
+    "name": "Macaco bencao",
+    "image": "assets/memes/macacobenca.jpg",
+    "description": "Rosto sereno, quase espiritual, com pouca expressao.",
+    "traits": {
+      "smile": 0.1,
+      "tilt": 0.05,
+      "center": 0.65,
+      "brightness": 0.72,
+      "wide_face": 0.5,
+      "hand": 0.25,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.0,
+      "open_hand": 0.4,
+      "mouth_open": 0.02,
+      "brow_up": 0.1
+    }
+  },
+  {
+    "name": "Macaco decepcao",
+    "image": "assets/memes/macacodecepção.jpg",
+    "description": "Expressao cansada, frustrada ou dramaticamente decepcionada.",
+    "traits": {
+      "smile": 0.0,
+      "tilt": 0.35,
+      "center": 0.55,
+      "brightness": 0.52,
+      "wide_face": 0.65,
+      "hand": 0.25,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.0,
+      "open_hand": 0.0,
+      "mouth_open": 0.75,
+      "brow_up": 0.05
+    }
+  },
+  {
+    "name": "Tiozinho com oculos",
+    "image": "assets/memes/tiozinhocomoculos.jpg",
+    "description": "Olhar para cima, expressao pensativa e rosto bem iluminado.",
+    "traits": {
+      "smile": 0.18,
+      "tilt": 0.2,
+      "center": 0.7,
+      "brightness": 0.88,
+      "wide_face": 0.6,
+      "hand": 0.0,
+      "shaka": 0.0,
+      "thumbs_up": 0.0,
+      "point": 0.0,
+      "open_hand": 0.0,
+      "mouth_open": 0.05,
+      "brow_up": 0.85
+    }
+  }
+]

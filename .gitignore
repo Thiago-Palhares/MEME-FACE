@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+video.mp4
+video_frames/
+inspect-video.cjs
+video-review.html
