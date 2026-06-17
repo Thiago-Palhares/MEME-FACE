@@ -55,9 +55,3 @@ Quando a camera pisca a deteccao por poucos frames, o app segura a ultima mao/ro
 - `main.py`: app principal com camera, deteccao e comparacao.
 - `meme_profiles.json`: pesos/traits de cada meme.
 - `assets/memes/`: imagens dos memes.
-
-## Proximos upgrades bons
-
-- Criar uma tela para cadastrar meme novo sem editar JSON.
-- Usar MediaPipe Face Mesh para medir olhos, boca e sobrancelhas com mais precisao.
-- Salvar historico dos matches e ranking dos memes mais frequentes.
